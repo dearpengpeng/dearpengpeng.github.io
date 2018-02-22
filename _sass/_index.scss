@@ -1,6 +1,6 @@
 .page[index] {
     a {
-        color: #4d6dad;
+        color: #1E90FF;
         transition: 0.5s ease;
         &:hover {
             color: #223253;
@@ -98,7 +98,7 @@
                             padding: 2px 0;
                             border-bottom: 1px solid #eee;
                             &:hover {
-                                background-color: #dbdfee;
+                                background-color: #bfd6ef;
                                 .badge {
                                     background-color: #dbdfee;
                                     transform: scale(1.2) rotate(360deg);
